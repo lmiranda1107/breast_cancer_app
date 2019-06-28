@@ -1,1 +1,2 @@
-# breast_cancer_app
+# ml_final_project
+Machine Learning Project
