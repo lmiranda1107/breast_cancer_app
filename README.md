@@ -25,4 +25,4 @@ While wrangling the data, we extracted the features from the list above that wer
 
 Below is our structure model that shows our overall process.
 
-[image of model goes here]
+![Untitled Diagram](https://user-images.githubusercontent.com/45187198/60310834-9b99da80-9922-11e9-9a1c-9fa5bec6ce50.png)
